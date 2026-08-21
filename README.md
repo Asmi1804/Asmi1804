@@ -1,14 +1,14 @@
 <!-- ============================================================
      1. HERO BANNER
 ============================================================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asmitha%20Banu%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20%C2%B7%20SQL%20%C2%B7%20Web%20Technologies&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asmitha%20Banu%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer&descAlignY=62&descSize=18"/>
 
 <!-- ============================================================
      2. TYPING HEADER
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/Asmi1804">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;ECE+Graduate+%40+Panimalar+Engineering+College;Aspiring+Software+Engineer+%7C+Java+%C2%B7+SQL+%C2%B7+Web+Tech;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;ECE+Graduate+from+Panimalar+Engineering+College;Aspiring+Software+Engineer;Java+and+SQL+and+Web+Technologies" alt="Typing SVG" />
   </a>
 </div>
 
