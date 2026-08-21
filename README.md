@@ -8,7 +8,7 @@
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/Asmi1804">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;ECE+Graduate+from+Panimalar+Engineering+College;Aspiring+Software+Engineer;Java+and+SQL+and+Web+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;ECE+Graduate+from+Panimalar+Engineering+College;Aspiring+Software+Engineer;Java+and+SQL+and+Web+Technologies" alt="Typing SVG" />
   </a>
 </div>
 
@@ -90,10 +90,10 @@ class Asmitha {
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/Asmi1804">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmi1804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Asmi1804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/Asmi1804">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Asmi1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
