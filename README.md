@@ -8,7 +8,7 @@
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/Asmi1804">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;Final+Year+ECE+Student+%40+Panimalar+Engineering+College;Building+user-centric+apps+with+Java+%26+Web+Tech;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Asmitha+%F0%9F%91%8B;ECE+Graduate+%40+Panimalar+Engineering+College;Aspiring+Software+Engineer+%7C+Java+%C2%B7+SQL+%C2%B7+Web+Tech;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 class Asmitha {
     String name = "Asmitha Banu A";
     String location = "Chennai, Tamil Nadu, India";
-    String degree = "B.E. Electronics & Communication Engineering";
+    String degree = "B.E. Electronics & Communication Engineering (Graduated 2026)";
     String college = "Panimalar Engineering College";
 
     String[] stack = {
